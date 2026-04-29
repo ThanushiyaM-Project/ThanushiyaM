@@ -24,8 +24,10 @@ My focus is on "Human-Computer Interaction (HCI), User Experience (UX), and Beha
 
 ## Featured Projects
 
-* UX Usability Analysis – Vedix Website
-* HCI in Healthcare – Exoskeleton Systems
+* UX Usability Analysis & Redesign – Vedix Website
+* Machine Learning Classification Pipeline
+* AI Ontology Design – Knowledge Representation (Protégé)
+* Human-Computer Interaction – Exoskeleton Systems
 
 
 ##  Goals
